@@ -1412,6 +1412,18 @@ a {
 .cid-udXt7go619 .mbr-section-btn {
   text-align: center;
 }
+#custom-html-6 {
+  /* Type valid CSS here */
+}
+#custom-html-6 div {
+  padding: 20px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-6 p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-udXJq33mMv {
   padding-top: 4rem;
   padding-bottom: 2rem;
@@ -1533,18 +1545,6 @@ a {
 .cid-udXtgVQC1O img {
   width: 100%;
   height: 100%;
-}
-#custom-html-6 {
-  /* Type valid CSS here */
-}
-#custom-html-6 div {
-  padding: 20px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-6 p {
-  font-size: 60px;
-  color: #777;
 }
 .cid-udYjxX14TT {
   padding-top: 3rem;
