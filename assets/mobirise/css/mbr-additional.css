@@ -1316,7 +1316,7 @@ a {
   }
 }
 .cid-udXqzHWG0w {
-  padding-top: 6rem;
+  padding-top: 8rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -1409,6 +1409,10 @@ a {
 .cid-udXt7go619 .mbr-section-title {
   color: #000000;
 }
+.cid-udXt7go619 .mbr-section-btn {
+  text-align: center;
+}
+.cid-udXt7go619 .card-text,
 .cid-udXt7go619 .mbr-section-btn {
   text-align: center;
 }
